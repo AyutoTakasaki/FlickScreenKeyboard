@@ -1,0 +1,18 @@
+C:\Users\Owner2\AppData\Local\Temporary Projects\フリック入力 新\bin\Debug\フリック入力 新.exe
+C:\Users\Owner2\AppData\Local\Temporary Projects\フリック入力 新\bin\Debug\フリック入力 新.pdb
+C:\Users\Owner2\AppData\Local\Temporary Projects\フリック入力 新\bin\Debug\フリック入力 新.xml
+C:\Users\Owner2\AppData\Local\Temporary Projects\フリック入力 新\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner2\AppData\Local\Temporary Projects\フリック入力 新\obj\x86\Debug\フリック入力_新.Form1.resources
+C:\Users\Owner2\AppData\Local\Temporary Projects\フリック入力 新\obj\x86\Debug\フリック入力_新.Resources.resources
+C:\Users\Owner2\AppData\Local\Temporary Projects\フリック入力 新\obj\x86\Debug\フリック入力 新.exe
+C:\Users\Owner2\AppData\Local\Temporary Projects\フリック入力 新\obj\x86\Debug\フリック入力 新.xml
+C:\Users\Owner2\AppData\Local\Temporary Projects\フリック入力 新\obj\x86\Debug\フリック入力 新.pdb
+C:\Users\Owner2\documents\visual studio 2010\Projects\フリック入力 新\フリック入力 新\obj\x86\Debug\フリック入力 新.exe
+C:\Users\Owner2\documents\visual studio 2010\Projects\フリック入力 新\フリック入力 新\obj\x86\Debug\フリック入力 新.xml
+C:\Users\Owner2\documents\visual studio 2010\Projects\フリック入力 新\フリック入力 新\obj\x86\Debug\フリック入力 新.pdb
+C:\Users\Owner2\documents\visual studio 2010\Projects\フリック入力 新\フリック入力 新\bin\Debug\フリック入力 新.exe
+C:\Users\Owner2\documents\visual studio 2010\Projects\フリック入力 新\フリック入力 新\bin\Debug\フリック入力 新.pdb
+C:\Users\Owner2\documents\visual studio 2010\Projects\フリック入力 新\フリック入力 新\bin\Debug\フリック入力 新.xml
+C:\Users\Owner2\documents\visual studio 2010\Projects\フリック入力 新\フリック入力 新\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner2\documents\visual studio 2010\Projects\フリック入力 新\フリック入力 新\obj\x86\Debug\フリック入力_新.Form1.resources
+C:\Users\Owner2\documents\visual studio 2010\Projects\フリック入力 新\フリック入力 新\obj\x86\Debug\フリック入力_新.Resources.resources
